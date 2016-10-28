@@ -7,6 +7,6 @@
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
-    <content src="http://eddatamm.org" />
+    <content src="index.html" />
     <access origin="*" />
 </widget>
